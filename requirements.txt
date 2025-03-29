@@ -14,4 +14,4 @@ gputil
 shap
 lime
 torchcam 
-opencv-python-headless
+opencv-contrib-python-headless
