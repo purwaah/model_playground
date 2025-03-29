@@ -1,0 +1,16 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+torch
+ultralytics
+pillow
+matplotlib
+seaborn
+pyyaml
+psutil
+gputil
+shap
+lime
+torchcam
